@@ -61,4 +61,4 @@ This project is written in standard C++ for the Arduino IDE. It relies heavily o
 ## ⚙️ Installation & Usage
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git)
+   git clone [https://github.com/humpriyam/SmartVehicleAssistantwithAutoBrakeLDRHeadlightToppleandSmokeDetectionSystem.git
